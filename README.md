@@ -1,9 +1,9 @@
 # Streamlit-EDA-Web-App
-*This repo includes an Exploratory data analysis app using Streamlit library. 
+* This repo includes an Exploratory data analysis app using Streamlit library. 
 
-**Have you ever wanted a quick, comprehensive overview of your #dataset? Look no further!
+* Have you ever wanted a quick, comprehensive overview of your #dataset? Look no further!
 
-*I've just developed a #streamlit app using pandas_profiling that simplifies the process of generating a detailed profile #report for your data.
+* I've just developed a #streamlit app using pandas_profiling that simplifies the process of generating a detailed profile #report for your data.
 
 *With just a click of a button, upload your #dataset and get an in-depth profile report instantly. 
 
